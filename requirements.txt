@@ -1,0 +1,5 @@
+﻿streamlit
+openpyxl
+gspread
+oauth2client
+python-dotenv==1.0.0
